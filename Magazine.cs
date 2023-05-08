@@ -158,6 +158,7 @@ class BookList
 {
     public BookList()
     {
+        _booklist = new List<string>();
     }
 
     public void print()
@@ -221,5 +222,5 @@ class BookList
         return -1;
     }
 
-    private List<string> _booklist = new List<string>();
+    private List<string> _booklist;
 }
