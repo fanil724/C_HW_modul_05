@@ -1,0 +1,15 @@
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\bin\Debug\net7.0\C_HW_modul_05.exe
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\bin\Debug\net7.0\C_HW_modul_05.deps.json
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\bin\Debug\net7.0\C_HW_modul_05.runtimeconfig.json
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\bin\Debug\net7.0\C_HW_modul_05.dll
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\bin\Debug\net7.0\C_HW_modul_05.pdb
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.csproj.AssemblyReference.cache
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.AssemblyInfoInputs.cache
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.AssemblyInfo.cs
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.csproj.CoreCompileInputs.cache
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.dll
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\refint\C_HW_modul_05.dll
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.pdb
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\C_HW_modul_05.genruntimeconfig.cache
+C:\Users\Фаниль\RiderProjects\C_HW_modul_05\C_HW_modul_05\obj\Debug\net7.0\ref\C_HW_modul_05.dll
